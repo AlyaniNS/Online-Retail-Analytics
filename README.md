@@ -56,7 +56,7 @@ Interactive Tableau dashboards were created to explore:
    **Goal: Prioritize international market expansion.**
    
 3. Top 10 Customers by Revenue
-   ![Top 10 Customers by Revenue](https://github.com/AlyaniNS/Online-Retail-Analytics/blob/main/assets/top-countries-revenue.png)
+   ![Top 10 Customers by Revenue](https://github.com/AlyaniNS/Online-Retail-Analytics/blob/main/assets/top-customers-by-revenue.png)
    **Goal: Target high-value customers**
    
 4. Top Countries by Demand
